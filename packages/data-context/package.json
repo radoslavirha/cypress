@@ -39,7 +39,7 @@
     "globby": "^11.0.1",
     "graphql": "^15.5.1",
     "isbinaryfile": "^4.0.8",
-    "launch-editor": "2.2.1",
+    "launch-editor": "2.14.2",
     "lodash": "4.17.21",
     "micromatch": "4.0.4",
     "node-machine-id": "1.1.12",
